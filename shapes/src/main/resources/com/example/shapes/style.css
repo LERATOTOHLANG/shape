@@ -1,0 +1,17 @@
+/* styles.css */
+
+/* Style for the buttons */
+.button {
+    -fx-font-size: 14px;
+    -fx-padding: 8px 16px;
+}
+
+/* Style for the scene background */
+#pane {
+    -fx-background-color: #f0f0f0; /* Light gray */
+}
+
+/* Style for the shape */
+.shape {
+    -fx-stroke: #000000; /* Black border */
+}
